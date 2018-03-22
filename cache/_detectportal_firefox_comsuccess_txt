@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Via: 1.1 WIN-TMG
+Connection: Keep-Alive
+Proxy-Connection: Keep-Alive
+Content-Length: 8
+Date: Tue, 20 Feb 2018 08:10:34 GMT
+Content-Type: text/plain
+ETag: "ae780585f49b94ce1444eb7d28906123"
+Server: AmazonS3
+Accept-Ranges: bytes
+Last-Modified: Mon, 15 May 2017 18:04:40 GMT
+X-Amz-Cf-Id: WU_0bCrJpcUYgtOVPqahMAz-O9bBsAcxX7WVi3U1422EZ6qXlFRuug==
+Cache-Control: no-cache, no-store, must-revalidate
+
+success
+HTTP/1.1 500 ( The Uniform Resource Locator (URL) is invalid. The request was not entered correctly. Enter the correct URL and try again.  )
+Via: 1.1 WIN-TMG
+Connection: close
