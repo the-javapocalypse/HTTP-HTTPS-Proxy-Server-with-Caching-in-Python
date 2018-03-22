@@ -27,7 +27,8 @@ After Downloading/Cloning the repo, you will need to configure the proxy setting
 * Enter `localhost` in HTTP Proxy and enter `8080` for the Port. Click OK.
 
 **For Internet Explorer:**
-*Download Chrome or Firefox.
+* Download Chrome or Firefox.
+* Never use Internet Explorer again.
 
 
 ## Built With
