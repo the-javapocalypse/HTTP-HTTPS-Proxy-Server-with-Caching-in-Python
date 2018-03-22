@@ -36,6 +36,10 @@ After Downloading/Cloning the repo, you will need to configure the proxy setting
 * Python 3.6
 * Socket
 
+## BUGS
+
+Caching works fine for HTTPS but can not render HTTP pages properly.
+
 ## Contributing
 
 1. Fork it
