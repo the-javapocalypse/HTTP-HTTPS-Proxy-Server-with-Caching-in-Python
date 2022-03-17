@@ -1,179 +1,47 @@
-[2018-02-20 12:47:16]   
+
+[2022-03-17 08:47:32]   
 
 Starting Server
 
 
-[2018-02-20 12:47:16]   Initializing Sockets [ready] Binding Sockets [ready] Listening...
-[2018-02-20 12:47:24]   Request received from: 127.0.0.1 at port: 54321
-[2018-02-20 12:47:24]   HTTPS Connection request
-[2018-02-20 12:47:24]   Request received from: 127.0.0.1 at port: 54322
-[2018-02-20 12:47:24]   HTTPS Connection request
-[2018-02-20 12:47:24]   Request received from: 127.0.0.1 at port: 54323
-[2018-02-20 12:47:24]   HTTPS Connection request
-[2018-02-20 12:47:28]  HTTPS Connection Established
-[2018-02-20 12:47:28]  HTTPS Connection Established
-[2018-02-20 12:47:28]  HTTPS Connection Established
-[2018-02-20 12:47:29]   Request received from: 127.0.0.1 at port: 54329
-[2018-02-20 12:47:29]   HTTP Connection request
-[2018-02-20 12:47:30]  Forwarding request from 127.0.0.1 to host...b'ocsp.digicert.com'
-[2018-02-20 12:47:30]  Error: forward request...[WinError 10053] An established connection was aborted by the software in your host machine
-[2018-02-20 12:47:30]   Request received from: 127.0.0.1 at port: 54331
-[2018-02-20 12:47:30]   HTTP Connection request
-[2018-02-20 12:47:31]  Forwarding request from 127.0.0.1 to host...b'ocsp.digicert.com'
-[2018-02-20 12:47:31]  Error: forward request...[WinError 10053] An established connection was aborted by the software in your host machine
-[2018-02-20 12:47:32]   Request received from: 127.0.0.1 at port: 54333
-[2018-02-20 12:47:32]   Request received from: 127.0.0.1 at port: 54334
-[2018-02-20 12:47:32]   Request received from: 127.0.0.1 at port: 54335
-[2018-02-20 12:47:32]   Request received from: 127.0.0.1 at port: 54336
-[2018-02-20 12:47:32]   Request received from: 127.0.0.1 at port: 54337
-[2018-02-20 12:47:32]   Request received from: 127.0.0.1 at port: 54338
-[2018-02-20 12:47:32]   Request received from: 127.0.0.1 at port: 54339
-[2018-02-20 12:47:32]   Request received from: 127.0.0.1 at port: 54340
-[2018-02-20 12:47:32]   HTTPS Connection request
-[2018-02-20 12:47:33]  HTTPS Connection Established
-[2018-02-20 12:47:33]   Request received from: 127.0.0.1 at port: 54342
-[2018-02-20 12:47:33]   HTTPS Connection request
-[2018-02-20 12:47:33]  HTTPS Connection Established
-[2018-02-20 12:47:33]   Request received from: 127.0.0.1 at port: 54344
-[2018-02-20 12:47:33]   HTTP Connection request
-[2018-02-20 12:47:34]  Forwarding request from 127.0.0.1 to host...b'ocsp.digicert.com'
-[2018-02-20 12:47:34]   Request received from: 127.0.0.1 at port: 54346
-[2018-02-20 12:47:34]   HTTP Connection request
-[2018-02-20 12:47:34]  Forwarding request from 127.0.0.1 to host...b'ocsp.pki.goog'
-[2018-02-20 12:47:35]  Error: forward request...[WinError 10053] An established connection was aborted by the software in your host machine
-[2018-02-20 12:47:35]   Request received from: 127.0.0.1 at port: 54348
-[2018-02-20 12:47:35]   HTTPS Connection request
-[2018-02-20 12:47:35]  Error: forward request...[WinError 10053] An established connection was aborted by the software in your host machine
-[2018-02-20 12:47:35]  HTTPS Connection Established
-[2018-02-20 12:47:36]   Request received from: 127.0.0.1 at port: 54350
-[2018-02-20 12:47:36]   HTTP Connection request
-[2018-02-20 12:47:36]  Forwarding request from 127.0.0.1 to host...b'ocsp.digicert.com'
-[2018-02-20 12:47:37]  Error: forward request...[WinError 10054] An existing connection was forcibly closed by the remote host
-[2018-02-20 12:47:43]   Request received from: 127.0.0.1 at port: 54352
-[2018-02-20 12:47:43]   Request received from: 127.0.0.1 at port: 54353
-[2018-02-20 12:47:43]   HTTPS Connection request
-[2018-02-20 12:47:43]   Request received from: 127.0.0.1 at port: 54354
-[2018-02-20 12:47:43]   HTTPS Connection request
-[2018-02-20 12:47:43]   HTTPS Connection request
-[2018-02-20 12:47:43]   Request received from: 127.0.0.1 at port: 54355
-[2018-02-20 12:47:43]   Request received from: 127.0.0.1 at port: 54356
-[2018-02-20 12:47:43]   Request received from: 127.0.0.1 at port: 54357
-[2018-02-20 12:47:43]   Request received from: 127.0.0.1 at port: 54358
-[2018-02-20 12:47:43]   HTTPS Connection request
-[2018-02-20 12:47:43]   HTTPS Connection request
-[2018-02-20 12:47:44]  HTTPS Connection Established
-[2018-02-20 12:47:44]  HTTPS Connection Established
-[2018-02-20 12:47:44]  HTTPS Connection Established
-[2018-02-20 12:47:44]  HTTPS Connection Established
-[2018-02-20 12:47:44]  HTTPS Connection Established
-[2018-02-20 12:47:46]   Request received from: 127.0.0.1 at port: 54364
-[2018-02-20 12:47:46]   HTTPS Connection request
-[2018-02-20 12:47:46]   HTTPS Connection request
-[2018-02-20 12:47:46]   Request received from: 127.0.0.1 at port: 54365
-[2018-02-20 12:47:46]   Request received from: 127.0.0.1 at port: 54366
-[2018-02-20 12:47:46]   Request received from: 127.0.0.1 at port: 54367
-[2018-02-20 12:47:46]   HTTPS Connection request
-[2018-02-20 12:47:46]   HTTPS Connection request
-[2018-02-20 12:47:46]   HTTPS Connection request
-[2018-02-20 12:47:46]   HTTPS Connection request
-[2018-02-20 12:47:46]  HTTPS Connection Established
-[2018-02-20 12:47:46]  HTTPS Connection Established
-[2018-02-20 12:47:46]  HTTPS Connection Established
-[2018-02-20 12:47:46]  HTTPS Connection Established
-[2018-02-20 12:47:46]  HTTPS Connection Established
-[2018-02-20 12:47:46]  HTTPS Connection Established
-[2018-02-20 12:47:53]   Request received from: 127.0.0.1 at port: 54374
-[2018-02-20 12:47:53]   Request received from: 127.0.0.1 at port: 54375
-[2018-02-20 12:47:53]   HTTPS Connection request
-[2018-02-20 12:47:53]  HTTPS Connection Established
-[2018-02-20 12:47:54]   HTTPS Connection request
-[2018-02-20 12:47:55]  HTTPS Connection Established
-[2018-02-20 12:48:30]   Request received from: 127.0.0.1 at port: 54379
-[2018-02-20 12:48:30]   HTTP Connection request
-[2018-02-20 12:48:35]   Request received from: 127.0.0.1 at port: 54380
-[2018-02-20 12:48:35]   HTTP Connection request
-[2018-02-20 12:48:40]   Request received from: 127.0.0.1 at port: 54383
-[2018-02-20 12:48:40]  Forwarding request from 127.0.0.1 to host...b'detectportal.firefox.com'
-[2018-02-20 12:48:40]  Forwarding request from 127.0.0.1 to host...b'detectportal.firefox.com'
-[2018-02-20 12:48:40]   HTTP Connection request
-[2018-02-20 12:48:40]  Forwarding request from 127.0.0.1 to host...b'detectportal.firefox.com'
-[2018-02-20 12:48:42]  Error: forward request...[WinError 10053] An established connection was aborted by the software in your host machine
-[2018-02-20 12:48:43]  Error: forward request...[WinError 10053] An established connection was aborted by the software in your host machine
-[2018-02-20 12:48:43]  Error: forward request...[WinError 10053] An established connection was aborted by the software in your host machine
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54387
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54388
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54389
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54390
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54391
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54392
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54393
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54394
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54395
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   Request received from: 127.0.0.1 at port: 54396
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 12:49:28]   Website Blacklisted
-[2018-02-20 12:49:28]   HTTPS Connection request
-[2018-02-20 13:11:55]   Request received from: 127.0.0.1 at port: 54408
-[2018-02-20 13:11:55]   HTTPS Connection request
-[2018-02-20 13:11:55]  HTTPS Connection Established
-[2018-02-20 13:11:58]   Request received from: 127.0.0.1 at port: 54411
-[2018-02-20 13:11:58]   HTTP Connection request
-[2018-02-20 13:11:58]  Forwarding request from 127.0.0.1 to host...b'detectportal.firefox.com'
-[2018-02-20 13:11:59]   Request received from: 127.0.0.1 at port: 54415
-[2018-02-20 13:11:59]   Website Blacklisted
-[2018-02-20 13:12:00]   Request received from: 127.0.0.1 at port: 54416
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:00]   Website Blacklisted
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:00]   Request received from: 127.0.0.1 at port: 54417
-[2018-02-20 13:12:00]   Website Blacklisted
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:00]   Request received from: 127.0.0.1 at port: 54418
-[2018-02-20 13:12:00]   Website Blacklisted
-[2018-02-20 13:12:00]   Request received from: 127.0.0.1 at port: 54422
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:00]   Website Blacklisted
-[2018-02-20 13:12:00]   Request received from: 127.0.0.1 at port: 54424
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:00]  Error: forward request...[WinError 10053] An established connection was aborted by the software in your host machine
-[2018-02-20 13:12:00]   Website Blacklisted
-[2018-02-20 13:12:00]   Request received from: 127.0.0.1 at port: 54427
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:00]   Website Blacklisted
-[2018-02-20 13:12:00]   Request received from: 127.0.0.1 at port: 54429
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:00]   Website Blacklisted
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:00]   Request received from: 127.0.0.1 at port: 54431
-[2018-02-20 13:12:00]   Website Blacklisted
-[2018-02-20 13:12:00]   Request received from: 127.0.0.1 at port: 54433
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:00]   Website Blacklisted
-[2018-02-20 13:12:00]   HTTPS Connection request
-[2018-02-20 13:12:03]   Request received from: 127.0.0.1 at port: 54439
-[2018-02-20 13:12:03]   HTTP Connection request
-[2018-02-20 13:12:03]  Forwarding request from 127.0.0.1 to host...b'detectportal.firefox.com'
-[2018-02-20 13:12:05]  Error: forward request...[WinError 10053] An established connection was aborted by the software in your host machine
-[2018-02-20 13:12:08]   Request received from: 127.0.0.1 at port: 54451
-[2018-02-20 13:12:08]   HTTPS Connection request
-[2018-02-20 13:12:09]   Request received from: 127.0.0.1 at port: 54454
-[2018-02-20 13:12:10]  HTTPS Connection Established
-[2018-02-20 13:12:10]   Request received from: 127.0.0.1 at port: 54460
-[2018-02-20 13:12:10]   HTTP Connection request
+[2022-03-17 08:48:25]   Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-17 08:52:52]   Request received from: 127.0.0.1 at port: 52674
+[2022-03-17 08:52:52]   HTTP Connection request
+[2022-03-17 08:52:52]  Forwarding request from 127.0.0.1 to host...b'e1.o.lencr.org'
+[2022-03-17 08:52:52]  Request of client 127.0.0.1 completed...
+[2022-03-17 08:52:54]   Request received from: 127.0.0.1 at port: 52680
+[2022-03-17 08:52:54]   HTTP Connection request
+[2022-03-17 08:52:54]  Forwarding request from 127.0.0.1 to host...b'ocsp.pki.goog'
+[2022-03-17 08:52:54]  Request of client 127.0.0.1 completed...
+[2022-03-17 08:53:22]   Request received from: 127.0.0.1 at port: 52716
+[2022-03-17 08:53:22]   HTTP Connection request
+[2022-03-17 08:53:22]  Forwarding request from 127.0.0.1 to host...b'ocsp.sectigo.com'
+[2022-03-17 08:53:22]   Request received from: 127.0.0.1 at port: 52722
+[2022-03-17 08:53:22]   HTTP Connection request
+[2022-03-17 08:53:22]  Forwarding request from 127.0.0.1 to host...b'ocsp.sectigo.com'
+[2022-03-17 08:53:22]  Request of client 127.0.0.1 completed...
+[2022-03-17 08:53:23]  Request of client 127.0.0.1 completed...
+[2022-03-17 08:53:30]   Request received from: 127.0.0.1 at port: 52728
+[2022-03-17 08:53:30]   HTTP Connection request
+[2022-03-17 08:53:30]  Forwarding request from 127.0.0.1 to host...b'staging6.gcgc.roeriver.com'
+[2022-03-17 08:53:55]   Request received from: 127.0.0.1 at port: 52750
+[2022-03-17 08:53:55]   HTTP Connection request
+[2022-03-17 08:53:55]  Cache Hit
+[2022-03-17 08:54:23]   Interrupting Server.
+[2022-03-17 08:54:24]   Stopping Server
+[2022-03-17 09:05:46]   
+
+Starting Server
+
+
+[2022-03-17 09:05:46]   Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-17 09:05:56]   Interrupting Server.
+[2022-03-17 09:05:57]   Stopping Server
+[2022-03-17 09:06:06]   
+
+Starting Server
+
+
+[2022-03-17 09:06:06]   Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-17 09:06:16]   Interrupting Server.
+[2022-03-17 09:06:17]   Stopping Server
