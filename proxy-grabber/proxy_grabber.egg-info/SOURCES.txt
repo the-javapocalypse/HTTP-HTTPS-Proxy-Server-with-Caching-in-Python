@@ -1,9 +1,0 @@
-README.md
-proxy_grabber.py
-setup.cfg
-setup.py
-proxy_grabber.egg-info/PKG-INFO
-proxy_grabber.egg-info/SOURCES.txt
-proxy_grabber.egg-info/dependency_links.txt
-proxy_grabber.egg-info/requires.txt
-proxy_grabber.egg-info/top_level.txt
