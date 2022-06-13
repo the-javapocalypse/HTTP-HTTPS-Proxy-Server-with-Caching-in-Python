@@ -10,7 +10,7 @@ Features: HTTP/HTTPS requests handling
 
 import socket, sys, datetime, time
 from _thread import start_new_thread
-
+from proxy_grabber import ProxyGrabber
 
 class Server:
     # Constructors initializing basic architecture
